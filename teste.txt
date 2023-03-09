@@ -1,0 +1,10 @@
+
+
+
+echo testeeee > teste.txt
+
+Sim
+s
+
+echo "teste" > "teste".txt
+
